@@ -1,3 +1,5 @@
+Fork and modification of https://github.com/eleanorlutz/asteroids_atlas_of_space
+
 # Mapping The Solar System
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
